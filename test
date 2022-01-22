@@ -5,7 +5,8 @@ from datetime import datetime
 
 nr_of_customers = 1000
 
-fake = Faker('de_DE')
+fake = Faker('de_DE') TEST!
+
 
 customers = []
 
